@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Techoctanet Services Pvt Ltd.</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Techoctanet Services Pvt Ltd.</h1>
+    <p>Unlock the full potential of technology</p>
+    <nav>
+      <a href="#services">Services</a>
+      <a href="#cta">Partner with Us</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section id="intro">
+      <h2>Welcome to Techoctanet Services</h2>
+      <p>Partner with OctaNet and unlock the full potential of technology to propel your business forward.</p>
+      <p>Let's embark on a journey of innovation, growth, and success together.</p>
+    </section>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Technology Consulting</li>
+        <li>Software Development</li>
+        <li>Cloud Solutions</li>
+        <li>IT Support</li>
+      </ul>
+    </section>
+    <section id="cta">
+      <h2>Partner with Us</h2>
+      <p>Ready to take your business to the next level? Let's talk!</p>
+      <a href="#contact" class="cta-button">Get in Touch</a>
+    </section>
+    <section id="social">
+      <h2>Follow Us</h2>
+      <a href="https://instagram.com/techoctanet" target="_blank">Instagram</a>
+      <a href="https://linkedin.com/company/techoctanet" target="_blank">LinkedIn</a>
+      <a href="https://youtube.com/techoctanet" target="_blank">YouTube</a>
+    </section>
+  </main>
+  <footer id="contact">
+    <p>Contact us at: info@techoctanet.com</p>
+    <p>&copy; 2024 Techoctanet Services Pvt Ltd.</p>
+  </footer>
+</body>
+</body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+header p {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 1.1em;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+#services ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#services li {s
+  background: #e4e4e4;
+  margin: 5px 0;
+  padding: 10px;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #333;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+footer {
+  background: #333;
+  color: white;
+  padding: 10px 0;
+}
+git add .
+git commit -m "Initial commit"
+git push origin main
